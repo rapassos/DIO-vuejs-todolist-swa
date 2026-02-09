@@ -11,10 +11,10 @@
 
 ## 📸 Screenshots
 
-![Tela Principal](screenshots/tela-principal.png)
+![Tela Principal](tela-principal.png)
 *Interface principal da aplicação*
 
-![Concluindo Tarefa](screenshots/check-task.png)
+![Concluindo Tarefa](check-task.png)
 *Concluindo uma tarefa*
 
 ---
