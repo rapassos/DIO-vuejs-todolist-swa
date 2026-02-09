@@ -5,6 +5,7 @@
 ## 🌐 Demo ao Vivo
 
 **🚀 [ACESSE A APLICAÇÃO FUNCIONANDO](https://purple-stone-0a8b3bf10.2.azurestaticapps.net/)**
+
 [![Deploy Status](https://img.shields.io/badge/deploy-success-brightgreen)](SEU-LINK-AQUI)
 [![Azure](https://img.shields.io/badge/Azure-Static_Web_Apps-0089D6?logo=microsoft-azure)](https://azure.microsoft.com/services/app-service/static/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-2.6-4FC08D?logo=vue.js)](https://vuejs.org/)
