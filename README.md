@@ -1,6 +1,23 @@
-# Aplicação Todo List Vue.js 2 com SWA + GitHub Actions
+# 📝 Todo List Vue.js + Azure Static Web Apps
 
+> Aplicação de gerenciamento de tarefas desenvolvida com Vue.js 2, demonstrando deploy automatizado no Azure usando GitHub Actions.
 
+## 🌐 Demo ao Vivo
+
+**🚀 [ACESSE A APLICAÇÃO FUNCIONANDO](https://purple-stone-0a8b3bf10.2.azurestaticapps.net/)**
+[![Deploy Status](https://img.shields.io/badge/deploy-success-brightgreen)](SEU-LINK-AQUI)
+[![Azure](https://img.shields.io/badge/Azure-Static_Web_Apps-0089D6?logo=microsoft-azure)](https://azure.microsoft.com/services/app-service/static/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-2.6-4FC08D?logo=vue.js)](https://vuejs.org/)
+
+## 📸 Screenshots
+
+![Tela Principal](screenshots/tela-principal.png)
+*Interface principal da aplicação*
+
+![Concluindo Tarefa](screenshots/check-task.png)
+*Concluindo uma tarefa*
+
+---
 
 Repositório responsável pela demo desenvolvida para fins de ensinar como realizar deploy automático e integrado usando o **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=vuechatapp_swa-github-gllemos)** e **[GitHub Actions](https://help.github.com/pt/actions)**
 
